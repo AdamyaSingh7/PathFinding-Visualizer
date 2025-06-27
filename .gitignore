@@ -1,0 +1,38 @@
+# === C++ Build Files ===
+*.o
+*.obj
+*.exe
+*.out
+*.log
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.pch
+
+# === CMake Build Folder ===
+/cmake-build-*/
+
+# === SFML-Specific (no special ignores usually needed) ===
+
+# === CLion & JetBrains IDEs ===
+.idea/
+*.iml
+
+# === OS Specific ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === User Specific Configs ===
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# === VS Code (if used) ===
+.vscode/
+
+# === Generated Assets (optional) ===
+assets/*.ttf
