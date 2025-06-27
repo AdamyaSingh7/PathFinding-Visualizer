@@ -59,7 +59,7 @@ A graphical application built using **SFML 3.0.0** and **C++** to visualize vari
 
 ## Screenshot
 
-![Visualizer Screenshot](assets/Screenshot.png)
+![Visualizer Screenshot](src/Screenshot.png)
 
 
 ## 🚀 Usage
