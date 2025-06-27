@@ -20,14 +20,6 @@ A graphical application built using **SFML 3.0.0** and **C++** to visualize vari
 
 ---
 
-## Demo
-
-![Pathfinding Demo](demo.gif) *(Add your demo GIF/image here)*
-
----
-
-## Installation & Setup
-
 ### Requirements
 
 * C++ compiler (tested with g++ via MinGW)
