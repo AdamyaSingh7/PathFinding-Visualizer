@@ -182,7 +182,7 @@ PathfindingVisualizer/
 **Adamya Singh**
 
 * B.Tech CSE @ Jaypee Institute of Information Technology
-* [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/yourusername)
+* [LinkedIn](https://www.linkedin.com/in/adamya-singh-35598a24a/) | [GitHub](https://github.com/AdamyaSingh7)
 
 ---
 
