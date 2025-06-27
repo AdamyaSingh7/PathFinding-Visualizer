@@ -57,7 +57,49 @@ A graphical application built using **SFML 3.0.0** and **C++** to visualize vari
 
 ---
 
-## Usage
+## Screenshot
+
+![Visualizer Screenshot](assets/Screenshot.png)
+
+
+## 🚀 Usage
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/your-username/PathFindingVisualizer.git
+   cd PathFindingVisualizer
+   ```
+
+2. **Install SFML**
+   Make sure SFML 3.0.0 is installed and properly configured for your system.
+
+3. **Build the project**
+
+   * Open the project in CLion or your preferred C++ IDE.
+   * Ensure SFML paths are correctly set.
+   * Build and run the project.
+
+4. **Interact with the Visualizer**
+
+   * **Left-click** to place start node, end node, and barriers.
+   * **Right-click** to remove nodes.
+   * Use **GUI buttons** to:
+
+     * Select an algorithm (A\*, Dijkstra, BFS, DFS)
+     * Run the algorithm
+     * Reset the grid
+     * Quit the program
+   * Keyboard Shortcuts:
+
+     * `R` – Reset Grid
+     * `Q` – Quit Application
+
+5. **Understand the Output**
+
+   * The algorithm will visually demonstrate pathfinding.
+   * If no path is found, `"No path found"` will be displayed.
+
 
 ### Mouse Interactions
 
